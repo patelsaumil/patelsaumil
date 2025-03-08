@@ -41,10 +41,10 @@ I specialize in **building scalable and innovative IT solutions**. With expertis
 
 ---
 
-## 📫 Connect with Me  
-- **GitHub:** [github.com/yourgithub](https://github.com/yourgithub)  
-- **LinkedIn:** [linkedin.com/in/saumilpatel](https://www.linkedin.com/in/saumilpatel)  
-- **Instagram:** [@saumil_patel_015](https://www.instagram.com/saumil_patel_015)  
+##  Let's Connect!  
+ **GitHub**: [Saumil Patel](https://github.com/patelsaumil)  
+ **LinkedIn**: [Saumil Patel](https://www.linkedin.com/in/saumil-patel-608687128/)  
+ **Instagram**: [@saumil_patel_015](https://www.instagram.com/saumil_patel_015)   
 
 ---
 
