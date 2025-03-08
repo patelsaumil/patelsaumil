@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-# 👋 Welcome to My GitHub Profile!  
+#  Welcome to My GitHub Profile!  
 
 ### I’m Saumil Patel – A Full-Stack Developer & Tech Enthusiast 🚀  
 I specialize in **building scalable and innovative IT solutions**. With expertise in **frontend & backend development**, I love creating **dynamic web applications** that make an impact. My passion lies in **healthcare IT, cloud computing, and UI/UX design**.  
 
-💡 Always learning, experimenting, and pushing the limits of technology!  
+ Always learning, experimenting, and pushing the limits of technology!  
 
 ---
 
@@ -14,7 +14,7 @@ I specialize in **building scalable and innovative IT solutions**. With expertis
 ###  Front-End Development  
 - HTML, CSS, JavaScript, React, Next.js, 
 
-### ⚙ Back-End Development  
+###  Back-End Development  
 - Node.js, Express.js, PHP, Firebase  
 
 ###  Databases  
@@ -35,7 +35,7 @@ I specialize in **building scalable and innovative IT solutions**. With expertis
 - **Description:** A **modern portfolio** showcasing my skills and projects.   
 
 
-### 🛒 E-Commerce Web App  
+###  E-Commerce Web App  
 - **Description:** A **shopping cart and order management system** with a secure backend.  
 - **Tech Stack:** React, Node.js, MongoDB  
 
@@ -48,5 +48,5 @@ I specialize in **building scalable and innovative IT solutions**. With expertis
 
 ---
 
-💡 **Thanks for visiting my profile!** Feel free to explore my projects and reach out. 
+ **Thanks for visiting my profile!** Feel free to explore my projects and reach out. 
 
